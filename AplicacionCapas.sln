@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPresentacion", "CapaPresentacion\CapaPresentacion.csproj", "{8016B1D9-C3F6-4F71-9644-65B26B6FBBA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "CapaNegocio\CapaNegocio.csproj", "{2EB6BD84-B947-46F5-9BD8-6EA6DB04FE6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{CDB936DA-9AD9-4C9C-B527-18E7363A951B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaSoporte", "CapaSoporte\CapaSoporte.csproj", "{0D2D8A82-031E-443D-8623-989B303A9A36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8016B1D9-C3F6-4F71-9644-65B26B6FBBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8016B1D9-C3F6-4F71-9644-65B26B6FBBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8016B1D9-C3F6-4F71-9644-65B26B6FBBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8016B1D9-C3F6-4F71-9644-65B26B6FBBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB6BD84-B947-46F5-9BD8-6EA6DB04FE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB6BD84-B947-46F5-9BD8-6EA6DB04FE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB6BD84-B947-46F5-9BD8-6EA6DB04FE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB6BD84-B947-46F5-9BD8-6EA6DB04FE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB936DA-9AD9-4C9C-B527-18E7363A951B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB936DA-9AD9-4C9C-B527-18E7363A951B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB936DA-9AD9-4C9C-B527-18E7363A951B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB936DA-9AD9-4C9C-B527-18E7363A951B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D2D8A82-031E-443D-8623-989B303A9A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2D8A82-031E-443D-8623-989B303A9A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2D8A82-031E-443D-8623-989B303A9A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2D8A82-031E-443D-8623-989B303A9A36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
